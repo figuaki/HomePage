@@ -2,6 +2,8 @@
 
 インターネット上で上記の画像を見つけた方は，お手数ですが本リポジトリのissueにて転載元をご一報いただきますようよろしくお願いいたします
 
+### この画像の無断転載を放置している場合[こちらの規約](https://github.com/figuaki/HomePage/blob/main/terms_of_use/term_of_use.md#2-%E8%BB%A2%E8%BC%89%E3%81%AE%E7%A6%81%E6%AD%A2)にある訴訟を含めた対応を行う可能性があります
+
 ---  
 
 
